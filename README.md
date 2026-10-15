@@ -2,11 +2,11 @@
 
 > "A personal site is a small space on the internet about you." — Built for the Hack Club Personal Site Workshop.
 
-welcome to **stardance** (`dumass-dev/stardance-web`), the personal website of **chiefkaaf** ([@dumass-dev](https://github.com/dumass-dev)).
+welcome to **stardance** (`dumass-dev/my-web`), the personal website of **chiefkaaf** ([@dumass-dev](https://github.com/dumass-dev)).
 
 a minimal, creative personal website designed like a physical sticky note bulletin board. built with pure semantic HTML5, Vanilla CSS, and basic Vanilla JavaScript. Zero frameworks, zero bundlers, zero AI gradients.
 
-Live site: [https://dumass-dev.github.io/stardance-web/](https://dumass-dev.github.io/stardance-web/)
+Live site: [https://dumass-dev.github.io/my-web/](https://dumass-dev.github.io/my-web/)
 
 ---
 
